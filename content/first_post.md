@@ -8,6 +8,8 @@ Summary: This is a summary of the first post written for our Pelican Blog. We're
 
 
 ##Big heading for a big day!
+###Let's throw an image here
+![HOSPA logo]({static}/images/logo.png)
 
 This is the first pharagraph of article - whoooo!
 
